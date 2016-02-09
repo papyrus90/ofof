@@ -1,0 +1,17 @@
+ro\sci\web\RegisterController.class
+ro\sci\domain\ForgotPasswordForm.class
+ro\sci\dao\SqlDao.class
+ro\sci\service\CustomUserDetailsService$1.class
+ro\sci\web\LoginController.class
+ro\sci\BitwireApplication.class
+ro\sci\web\UsersController.class
+ro\sci\web\HomeController.class
+ro\sci\service\CustomUserDetailsService$CustomUserDetails.class
+ro\sci\domain\UserCreateForm.class
+ro\sci\domain\User.class
+ro\sci\service\SqlService.class
+ro\sci\security\SecurityConfig.class
+ro\sci\service\SqlServiceImpl.class
+ro\sci\security\UserCreateFormValidator.class
+ro\sci\domain\Role.class
+ro\sci\service\CustomUserDetailsService.class

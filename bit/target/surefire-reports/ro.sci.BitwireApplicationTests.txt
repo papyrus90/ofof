@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ro.sci.BitwireApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.4 sec - in ro.sci.BitwireApplicationTests

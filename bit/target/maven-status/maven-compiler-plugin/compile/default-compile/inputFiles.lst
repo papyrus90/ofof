@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\security\SecurityConfig.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\service\SqlService.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\web\UserController.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\service\SqlServiceImpl.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\dao\SqlDao.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\domain\Role.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\web\UsersController.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\domain\User.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\BitwireApplication.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\service\CustomUserDetailsService.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\domain\UserCreateForm.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\web\HomeController.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\web\LoginController.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\security\UserCreateFormValidator.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\domain\ForgotPasswordForm.java
+C:\Users\Alex\Desktop\Git-hub\myversion\bit\src\main\java\ro\sci\web\RegisterController.java
